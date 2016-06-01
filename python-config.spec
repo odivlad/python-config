@@ -17,7 +17,7 @@
 %bcond_without check
 
 Name:    python-config
-Version: 0.1.1
+Version: 0.1.2
 Release: 1%{?dist}
 Summary: A simple module for reading Python configuration files
 
